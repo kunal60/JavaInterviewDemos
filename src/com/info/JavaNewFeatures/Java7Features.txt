@@ -1,0 +1,10 @@
+1)Diamond operator
+example: Map<String,List<Trade>> trades = new TreeMap<>();
+2)Using String in switch statements
+3)Try with resources
+try(resources to be cleant){// your code}
+4)Numeric Literals With Underscores
+eg: int i= 1_000;
+5)Improved Exception Handling
+-Multiples catches in same block.
+catch(Exception one | Exception Two |ExceptionThree e)

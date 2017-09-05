@@ -1,0 +1,5 @@
+1)Lambda Expressions.
+Example: Runnable java8Runner = () -> {sop("I am Runnung");};
+2) Nashorn: javascript engine that enables us to run javascript to run on a jvm.
+3)String.join() function
+4)Streams

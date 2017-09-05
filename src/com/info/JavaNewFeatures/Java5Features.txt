@@ -1,0 +1,8 @@
+1)Annotations - My favourite feature
+2)Generics
+3)Enhanced for Loop
+4)Autoboxing/Unboxing
+5)Varargs
+6)Static Import
+7)Concurrent Collections ->1)Copy and Write 2)Copy and Swap
+8)Locks
