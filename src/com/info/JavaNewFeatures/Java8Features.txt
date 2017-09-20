@@ -2,4 +2,7 @@
 Example: Runnable java8Runner = () -> {sop("I am Runnung");};
 2) Nashorn: javascript engine that enables us to run javascript to run on a jvm.
 3)String.join() function
+	String joinString1=String.join("-","welcome","to","javatpoint");  
+	System.out.println(joinString1); 
+	Output:welcome-to-javatpoint
 4)Streams
